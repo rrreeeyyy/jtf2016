@@ -1,4 +1,4 @@
-footer: July Tech Festa 2016 - Yoshikawa Ryota ( @rrreeeyyy ) / Topotal
+footer: July Tech Festa 2016 2016/07/24 - Yoshikawa Ryota ( @rrreeeyyy ) / Topotal
 slidenumbers: true
 autoscale: true
 theme: Plain Jane
@@ -300,7 +300,6 @@ theme: Plain Jane
 - `http://blog.yuuk.io/entry/diy-container`
 - `http://kentaro.tumblr.com/post/66674445339/代表的プロダクトについて`
 - `https://github.com/peco/peco`
-- `https://github.com/STNS/STNS`
 
 ---
 
